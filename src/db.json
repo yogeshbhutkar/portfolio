@@ -1,0 +1,104 @@
+{
+    "data": [
+        {
+            "id":1,
+            "project_name": "Online Voting Platform",
+            "github_link": "https://github.com/yogeshbhutkar/OVP-OnlineVotingPlatform/",
+            "image": "./assets/ovp.png",
+            "description": "Organizes online conduction of election with separate panel for admins as well as the voters with passport's authentication.",
+            "tags": [
+                {"id": 1, "tag":"Express JS"},
+                {"id": 2, "tag": "Node JS"},
+                {"id": 3, "tag": "Sequelize-cli"},
+                {"id": 4, "tag": "Tailwind"}
+            ]
+        },
+        {
+            "id":2,
+            "project_name": "Planify",
+            "github_link": "https://github.com/yogeshbhutkar/planify-react/tree/master",
+            "image": "./assets/planify.png",
+            "description": "Organize your team with a kanban style dashboard with drag and drop support as well as JWT based authentication.",
+            "tags": [
+                {"id":1, "tag": "React JS"},
+                {"id":2, "tag": "Node JS"},
+                {"id": 3, "tag": "React-beautiful-dnd"},
+                {"id": 4, "tag": "Tailwind"}
+                
+            ]
+        },
+        {
+            "id":3,
+            "project_name": "Tunify",
+            "github_link": "https://github.com/yogeshbhutkar/Tunify",
+            "image": "./assets/tunify.png",
+            "description": "Schedule your appointments with Tunify with an integrated calendar to never forget your tasks.",
+            "tags": [
+                {"id": 1, "tag": "React JS"},
+                {"id":2, "tag": "Firebase auth"},
+                {"id":3, "tag": "MERN Stack"},
+                {"id": 4, "tag": "Tailwind"}
+            ]
+        },
+        {
+            "id":4,
+            "project_name": "Smarter Tasks",
+            "github_link": "https://github.com/yogeshbhutkar/Smarter_Tasks",
+            "image": "./assets/smarter-tasks.png",
+            "description": "Manage your team members as well as projects assigned to every team",
+            "tags": [
+                {"id": 1, "tag": "React JS"},
+                {"id":2, "tag": "API Handling"},
+                {"id":3, "tag": "NPM packages"},
+                {"id": 4, "tag": "Headless UI / Tailwind"}
+            ]
+        },
+        {
+            "id":4,
+            "project_name": "Chat_On",
+            "github_link": "https://github.com/yogeshbhutkar/Chat_on",
+            "image": "./assets/chat_on.jpeg",
+            "description": "A Flutter application which supports blazing fast text messages and comes with Wolfram Alpha's chat bot.",
+            "tags": [
+                {"id": 1, "tag": "Flutter"},
+                {"id":2, "tag": "API Handling"},
+                {"id":3, "tag": "Firebase"}
+            ]
+        },
+        {
+            "id":5,
+            "project_name": "Magic Memory",
+            "github_link": "https://github.com/yogeshbhutkar/Magic-memory-react",
+            "image": "./assets/magic_memory.png",
+            "description": "A memory game made with React JS",
+            "tags": [
+                {"id": 1, "tag": "React JS"},
+                {"id":2, "tag": "CSS"},
+                {"id":3, "tag": "JavaScript"}
+            ]
+        },
+        {
+            "id":6,
+            "project_name": "The Notes",
+            "github_link": "https://github.com/yogeshbhutkar/thenotes-android",
+            "image": "./assets/TheNotes.jpg",
+            "description": "A Flutter app to share PDF files amongst users with a build in PDF viewer and auth system.",
+            "tags": [
+                {"id": 1, "tag": "Flutter"},
+                {"id":2, "tag": "Firebase Auth"},
+                {"id":3, "tag": "Firebase Firestore"}
+            ]
+        },
+        {
+            "id":6,
+            "project_name": "Planetopedia",
+            "github_link": "https://github.com/yogeshbhutkar/planetopedia",
+            "image": "./assets/Planetopedia.jpeg",
+            "description": "A Flutter app which renders NASA's 3D models for all the planets in our solar system with zoom capabilities.",
+            "tags": [
+                {"id": 1, "tag": "Flutter"},
+                {"id":2, "tag": "3D Rendering"}
+            ]
+        }
+    ]
+}
